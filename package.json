@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "mocha testing/tests"
+    "test": "mocha testing/arrow-functions"
   },
   "repository": {
     "type": "git",
